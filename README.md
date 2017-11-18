@@ -4,7 +4,7 @@
 
 ## Instructions
 1. The main class that needs to be compiled and executed to run the program is Invaders.java
-2. Include the stdlib.jar (Princeton University's standard libraries) by including the classpath when compiling and executing the program:
+2. Include the stdlib.jar (Princeton University's standard libraries) by including the classpath when compiling and executing the program: </br>
 **Linux:** javac -cp .:stdlib.jar Invaders.java, java -cp .:stdlib.jar Invaders
 **Windows:** javac -cp .;stdlib.jar Invaders.java, java -cp .;stdlib.jar Invaders
 
