@@ -10,9 +10,8 @@
 **Linux:** javac -cp .:stdlib.jar Invaders.java, java -cp .:stdlib.jar Invaders </br>
 **Windows:** javac -cp .;stdlib.jar Invaders.java, java -cp .;stdlib.jar Invaders
 
-## Additional work for bonus marks
+## Features
 
-* Upgraded graphics.
 * Sounds: when enemies die, counter-attack or the user shoots.
 * Enemies counter attack: The frequency of the counter attacks are determined by the level.
   A random enemy is selected to take the shot each time.
@@ -28,8 +27,7 @@
 * Pause: the game can be paused and unpaused by the player by pressing p.
 * High score: the previous high score is saved in a text file and the user is informed if he has beaten his old highscore.
 * Messages: pop-up messages that can stay on the screen for a desired amount of time to convey information without stopping the
-  game. For example a floating "+1" remains in the place of a killed enemy for a few frames and the level number is displayed in the middle
-  of the screen as the user starts a new level. 
+  game. For example a floating "+1" remains in the place of a killed enemy for a few frames and the level number is displayed in the middle of the screen as the user starts a new level. 
 
 ## Credits for resources used
 
