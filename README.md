@@ -7,7 +7,6 @@ Include the stdlib.jar (Princeton University's standard libraries) by including 
 Linux: javac -cp .:stdlib.jar Invaders.java, java -cp .:stdlib.jar Invaders
 Windows: javac -cp .;stdlib.jar Invaders.java, java -cp .;stdlib.jar Invaders
 
-===================================
   Additional work for bonus marks
 ===================================
 
@@ -30,11 +29,10 @@ Windows: javac -cp .;stdlib.jar Invaders.java, java -cp .;stdlib.jar Invaders
   game. For example a floating "+1" remains in the place of a killed enemy for a few frames and the level number is displayed in the middle
   of the screen as the user starts a new level. 
 
-===================================
    Credits for resources used
 ===================================
 
-_____________ PICTURES _________________
+**PICTURES**
 
 Bullet: http://s2.postimg.org/vay5t66t1/bullet.png
 
@@ -54,7 +52,7 @@ http://piq.codeus.net/picture/3938
 I made the starry space background myself using Photoshop.
 
 
-______________ SOUNDS _________________
+**SOUNDS**
 
 Shooting and invader killed sounds: http://www.classicgaming.cc/classics/spaceinvaders/sounds.php
 
