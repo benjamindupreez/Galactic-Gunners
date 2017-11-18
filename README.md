@@ -1,11 +1,12 @@
 # Galactic-Gunners
-A Space Invaders game developed for CS E214, Object-Oriented programming in Java
 
-The main class that needs to be compiled and executed to run the program is Invaders.java
 
-Include the stdlib.jar (Princeton University's standard libraries) by including the classpath when compiling and executing the program
-Linux: javac -cp .:stdlib.jar Invaders.java, java -cp .:stdlib.jar Invaders
-Windows: javac -cp .;stdlib.jar Invaders.java, java -cp .;stdlib.jar Invaders
+
+## Instructions
+1. The main class that needs to be compiled and executed to run the program is Invaders.java
+2. Include the stdlib.jar (Princeton University's standard libraries) by including the classpath when compiling and executing the program:
+**Linux:** javac -cp .:stdlib.jar Invaders.java, java -cp .:stdlib.jar Invaders
+**Windows:** javac -cp .;stdlib.jar Invaders.java, java -cp .;stdlib.jar Invaders
 
 ## Additional work for bonus marks
 
