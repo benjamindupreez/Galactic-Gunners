@@ -1,13 +1,13 @@
 # Galactic-Gunners
 
 <p align="center">
-  <img src="invaders.jpg" width="350"/>
+  <img src="invaders.jpg" width="600"/>
 </p>
 
 ## Instructions
 1. The main class that needs to be compiled and executed to run the program is Invaders.java
 2. Include the stdlib.jar (Princeton University's standard libraries) by including the classpath when compiling and executing the program: </br>
-**Linux:** javac -cp .:stdlib.jar Invaders.java, java -cp .:stdlib.jar Invaders
+**Linux:** javac -cp .:stdlib.jar Invaders.java, java -cp .:stdlib.jar Invaders </br>
 **Windows:** javac -cp .;stdlib.jar Invaders.java, java -cp .;stdlib.jar Invaders
 
 ## Additional work for bonus marks
