@@ -7,8 +7,7 @@ Include the stdlib.jar (Princeton University's standard libraries) by including 
 Linux: javac -cp .:stdlib.jar Invaders.java, java -cp .:stdlib.jar Invaders
 Windows: javac -cp .;stdlib.jar Invaders.java, java -cp .;stdlib.jar Invaders
 
-  Additional work for bonus marks
-===================================
+## Additional work for bonus marks
 
 * Upgraded graphics.
 * Sounds: when enemies die, counter-attack or the user shoots.
@@ -29,8 +28,7 @@ Windows: javac -cp .;stdlib.jar Invaders.java, java -cp .;stdlib.jar Invaders
   game. For example a floating "+1" remains in the place of a killed enemy for a few frames and the level number is displayed in the middle
   of the screen as the user starts a new level. 
 
-   Credits for resources used
-===================================
+## Credits for resources used
 
 **PICTURES**
 
