@@ -1,6 +1,8 @@
 # Galactic-Gunners
 
-
+<p align="center">
+  <img src="invaders.jpg" width="350"/>
+</p>
 
 ## Instructions
 1. The main class that needs to be compiled and executed to run the program is Invaders.java
